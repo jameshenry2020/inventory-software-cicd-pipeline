@@ -3,3 +3,4 @@ psycopg2==2.9.5
 flake8==5.0.4
 black==23.1.0
 isort==5.9.3
+pytest-django==4.5.2
